@@ -1,5 +1,5 @@
 # CricBuzz_OOP_Project
-Welcome to the CricBuzz Management System, a collaborative effort by Talha Rauf and Danish Aziz, developed as a comprehensive Object-Oriented Programming (OOP) project for our university coursework.
+Welcome to the CricBuzz Management System, a collaborative effort by M Talha Rauf and Danish Aziz, developed as a comprehensive Object-Oriented Programming (OOP) project for our university coursework.
 
 Key Features:
 📊 Data Management:
